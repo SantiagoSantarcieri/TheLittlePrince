@@ -11,17 +11,18 @@
         android:id="@+id/btnOpenActivityLecture"
         android:layout_width="241dp"
         android:layout_height="70dp"
+        android:layout_marginBottom="248dp"
         android:backgroundTint="@color/button"
         android:fontFamily="@font/brygada"
         android:text="Lecture"
         android:textAllCaps="false"
         android:textColor="@color/text"
-        android:textSize="30dp"
+        android:textSize="31dp"
         app:cornerRadius="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.494"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="394dp" />
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/btnOpenActivityDedication"
