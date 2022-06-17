@@ -1,4 +1,4 @@
-package com.example.thelittleprince
+package com.ejemplo.thelittleprince
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,6 +7,7 @@ import android.provider.AlarmClock.EXTRA_MESSAGE
 import android.view.View
 import android.widget.Button
 import android.widget.EditText
+import com.example.thelittleprince.R
 
 class MainActivity : AppCompatActivity() {
 

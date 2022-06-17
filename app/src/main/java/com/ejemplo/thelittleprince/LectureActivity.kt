@@ -1,7 +1,8 @@
-package com.example.thelittleprince
+package com.ejemplo.thelittleprince
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.thelittleprince.R
 import com.github.barteksc.pdfviewer.PDFView
 
 class LectureActivity : AppCompatActivity() {

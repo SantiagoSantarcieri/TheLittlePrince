@@ -1,4 +1,4 @@
-package com.example.thelittleprince
+package com.ejemplo.thelittleprince
 
 import org.junit.Test
 

@@ -10,19 +10,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TheLittlePrince">
         <activity
-            android:name=".activity_author"
+            android:name="com.ejemplo.thelittleprince.activity_author"
             android:exported="false" />
         <activity
-            android:name=".DedicationActivity"
+            android:name="com.ejemplo.thelittleprince.DedicationActivity"
             android:exported="false" />
         <activity
-            android:name=".AuthorActivity"
+            android:name="com.ejemplo.thelittleprince.AuthorActivity"
             android:exported="false" />
         <activity
-            android:name=".LectureActivity"
+            android:name="com.ejemplo.thelittleprince.LectureActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.ejemplo.thelittleprince.MainActivity"
             android:exported="true"
             android:theme="@style/SplashTheme">
             <intent-filter>
